@@ -1,4 +1,3 @@
-#Awesome new project
 # mern-exercise-tracker
 This is my first project on mern stack. This is an exercise tracker app.
 
